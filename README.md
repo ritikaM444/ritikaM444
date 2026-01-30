@@ -17,6 +17,7 @@ I am currently studying the cybersecurity domain of offensive security. <br>I wo
 
 ### ✍️ Random Dev Quote
 
+<style>
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="auto" fill="none">  ́<foreignObject width="100%" height="100%">
 ==
 $0
@@ -33,7 +34,7 @@ $0
 </div>
 </foreignObject>
 </svg>
-
+</style>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ritikaM444&limit=5&theme=dark&combine_all_yearly_contributions=true)
