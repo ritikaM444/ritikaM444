@@ -17,7 +17,7 @@ I am currently studying the cybersecurity domain of offensive security. <br>I wo
 ![](https://github-profile-trophy.vercel.app/?username=ritikaM444&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> "Hacking is about exploring limits—pushing what can be built or broken." - Mark Zuckerberg
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ritikaM444&limit=5&theme=dark&combine_all_yearly_contributions=true)
